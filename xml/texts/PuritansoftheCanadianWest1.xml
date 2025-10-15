@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/DiSA-DHIL/ATN-Schema/refs/heads/main/dist/ATN.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/DiSA-DHIL/ATN-Schema/refs/heads/main/dist/ATN.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PuritansoftheCanadianWest1">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Puritans of the Canadian West</title>
+                <respStmt>
+                    <resp>Transcriber</resp>
+                    <name ref="pers:SL1">Sydney Lines</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoder</resp>
+                    <name ref="pers:SL1">Sydney Lines</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Digital Scholarship in the Arts</distributor>
+                <distributor>Digital Humanities Innovation Lab</distributor>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!--Information about the source file. If it's
+                  a primary source, use a <bibl> or <msDesc>;
+                  if born digital, use <p>Born Digital</p>-->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <schemaRef url="https://github.com/DiSA-DHIL/ATN-Schema/blob/main/sch/ATN.odd"/>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <catRef scheme="atn:DocType" target="atn:PrimarySource"/>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <pb n="34"/>
+        <body>
+            <div>
+            <head>Puritans of the Canadian West</head>
+            <opener>
+                <byline>By <name ref="pers:LGS1">Laura Goodman Salverson</name></byline>
+                <byline>Illustrated by <name ref="pers:GOL1">Galbraith O'Leary</name></byline>
+            </opener>
+            <p>Every kind of people and every kind of faith rub shoulders on the plains, and none loses righteousness thereby. Even communism is here, not in fancy nor theory, but the thing itself. And to the unbiased, dull it seems and incontestably stupid.</p>
+            <p>Doubtless the guardian genius of the west chuckles at her own astuteness and acumen, for nowehere could better proof be found of the unfitness of mortals at this particular stage of evolution to participate in such a scheme than can be had in these communities themselves. They are the best possible cure for the fever of communism. Such a settlement may be visited by whosoever has courage to go back, as it were, into the much lamented period of puritanical conscience, stock and pillories and the fear of God.</p>
+            <p>Corporeally speaking, the settlement in question lies in a charming valley in Alberta. The good people thereof are <trait type="ethnicity"><label>Ethnicity</label><desc>German Hutterites</desc></trait> or, as they explain, border-people––people from the border of Germany and Russia. German, at any rate, is the language they now speak and in their solemn faces and drab righteousness one may visualize with little difficulty the Puritan fatehrs, not forgetting the patient, browbeaten Puritan mothers.</p>
+            <p>The Hutterites are dedicated to religion. As I was gravely told, man's mission on earth is only to wait the paradise to come. Hence, according to them, ambition is vain and liable to lead one into sin and the painful consequence thereof.But they are an efficient body, none the less, and singular in the records of religious orders, expend no little thought upon diminishing the hardship of manual labor for women as well as men.</p>
+            <p>Be t confessed at once that my first impression of the colony not a flattering one. I thought I had accidentally dropped into an experimental stock farm. the buildings had all the appearance of model barns; substantial, ugly, all alike and set row on row. But I was shortly disillusioned, for no sooner had the car come to a halt before on of the lnog rambling buildings, than out of every nook and cranny poured a truly alarming army of young Hutterites.</p>
+            <p>After this reception by the rising generation the head of the colony, the minister, made his appearance. Being assured that we would not take any pictures of the people––it being against God to amk any graven image of any living thing––we were courteously invited to see the colony. There was much to admire. The buildings are all goos and sound and fitted up for convenience if not comfort. There is a general dining room for adults, another for children under fourteen, and a kind of kindergarten for babies. Once the baby no longer requires the more tender care if is given over into the charge of the old ladies of the colony who, it is certain, think little enough of the task though they perform the necessary duties in their appointed turn without controversy. The babies have also a rest-room, poorly ventilated but arm and clean, where they have their daily naps.</p>
+            </div>
+            <div>
+                <head>Interest in Sinful Garments</head>
+                <p>The kitchen is fitted up with huge stoves and water is piped right to the cauldrons thereon. Bread is baked in modern ovens such as our bakeries use<note type="editorial" resp="pers:SL1">Who is our? It seems Canada here rather than Icelanders.</note>, and the bread was light and wholesome and appetzing. There is also a general laundry, as modern as can be, and the cellars and root-house are orderly and speak loudly for the thrift and frugality of this people.</p>
+            </div>
+        </body>
+        <!--Finish transcription</p>-->
+    </text>
+</TEI>
+

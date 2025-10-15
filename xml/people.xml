@@ -53,6 +53,13 @@
                   <surname>O'Malley</surname>
                </persName>
             </person>
+            <person xml:id="GOL1">
+               <persName>
+                  <reg>Galbraith O'Leary</reg>
+                  <forename>Galbraith</forename>
+                  <surname>O'Leary</surname>
+               </persName>
+            </person>
          </listPerson>
          <listPerson type="contributor">
             <person xml:id="SL1">
