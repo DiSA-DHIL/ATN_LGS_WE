@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/DiSA-DHIL/ATN-Schema/refs/heads/main/dist/ATN.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/DiSA-DHIL/ATN-Schema/refs/heads/main/dist/ATN.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SheButtersHerHair1">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>She Butters Her Hair No More --- But Bobs It!</title>
+                <title type="sub">Russian Girls in Canada's West Make Bid For Emancipation––But Even Yet She May Have to Marry Against Her Will––Slow Social Evolution.</title>
+                <respStmt>
+                    <resp>Transcriber</resp>
+                    <name ref="pers:SL1">Sydney Lines</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoder</resp>
+                    <name ref="pers:SL1">Sydney Lines</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Digital Scholarship in the Arts</distributor>
+                <distributor>Digital Humanities Innovation Lab</distributor>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!--Information about the source file. If it's
+                  a primary source, use a <bibl> or <msDesc>;
+                  if born digital, use <p>Born Digital</p>-->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <schemaRef url="https://github.com/DiSA-DHIL/ATN-Schema/blob/main/sch/ATN.odd"/>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <catRef scheme="atn:DocType" target="atn:PrimarySource"/>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <pb n="20"/>
+        <body>
+            <div>
+                <head>She Butters Her Hair No More --- But Bobs It!</head>
+                <head type="subtitle">Russian Girls in Canada's West Make Bid For Emancipation––But Even Yet She May Have to Marry Against Her Will––Slow Social Evolution.</head>
+                <opener>
+                    <byline>By <name ref="pers:LGS1">Laura Goodman Salverson</name></byline>
+                    <byline>Illustrated by <name ref="pers:KY1">Kyle</name></byline>
+                </opener>
+                <p>Old Saska had acquired a single burning passion since coming to live in Northern Alberta––an irrepressible passion for stealing butter, though she never has tasted a mouthful of the stuff in her life nor ever expected to do so. There was a more subtle reason for the clever thefts, the sly scrapings of teh butter tubs her heavy handed son-in-law sold to the general merchants.</p>
+                <p>The reason goes back to Russia, where Saska had slaved out her own girlhood in the grain fields of firsts on <q>barin</q> and then another, and the girlish heartaches she had then endured because never, not even for her own wedding, had she been able to <emph>butter her hair!</emph></p>
+                <p>So now, old and bent and very dirty, she, none the less, risked the destructive rage of her son-in-law to steal butter for young Maria's hair. So crafty was Saska in subterfuge that she kpt a little jar of pig-grease on the window sill––for which, no doubt, the flies blessed her––and made a show of using this on her granddaughter's hair whenever the master of the house was present.</p>
+                <p>Maria's father was however, not such an unnatural parent. He was anxious to adopt Canadian ways in more than farming and Canadians, he had noticed, believed in sending their daughters to school.</p>
+                <p>This on the surface, appeared most singular, but then a good many thigs in this, his adopted country, had seemed singular, only later to prove beneficial. He hadn't seen the sense of testing cattle for a disease which all ought to know the good God inflicted only upon men. But he realized the practicability of compliance after his neighbor's cow had been taken out and shot.</p>
+                <p>Of course, the loss of af a daughter was not to be compared with the loss of a cow, but he had come to the conclusion that it were best to be on the right side in affairs Canadian.</p>
+                <p>This accounts for Maria's coming to the mission school, her hair greased into plastered sedateness.</p>
+                <p>Maria at once feel in love with the school, the teachers, the––to her––inordinately elegant sitting-room, with its velvet davenport and its shiny piano. Maria didn't know it was a piano, but thought it a very magnificent sort of box to put books and pictures on; and she enjoyed tremendously the experience of siting down to dinner at a table spread with all kinds of food, just as though it were a party.</p>
+                <p>But she howled vociferously from the depths of an indignant and wounded spirit when, before bedtime, the hitherto kind teacher took her into a room full of taps and tubs, medicine bottles and more soap and towels than Maria had supposed her little shrinking body and every trace of the coveted butter from her hair.</p>
+            </div>
+            <div>
+                <head>Butter Traditional Beautifier</head>
+                <p>This wounding of spirit turned bitter resentment next morning when no move was made to furnish her with even a drop of wagon-grease, and yet at breakfast she atched a plateful of butter actually vanishing down a dowzen eager throats. Maria learned a good many things rapidly, but she was not persuaded to eat what all good <name ref="pers:RUT1">Ruthenians</name>know should only be used as a beautifier until after several stormy weeks at the mission; and for months––in fact until the teacher threatened to refuse her admission again –– Maria never failed to return from a visit home with an elaborately greased head.</p>
+                <p>But whether it was owing to Saska's romantic dreams in her behalf, or that pretty yellow head of hers, Maria came as near to having an <q>affair</q> as any Ruthenian girl could expect.</p>
+                <p>It happened after she had spent two years in the mission and had become a most valued pupil. She had gone to Edmonton on a shoppping trip, and, on returning, while waiting her train, she had attracted the attention of a young section-hand.</p>
+                <p>The very next week-end he came to the mission, having traced her through a friend living in her community. He very politely declared his errand: he wanted to marry Maria, and to take her back with him immediately.</p>
+                <p>The amazed teachers scarecely knew what to reply to such a staggering request, but granted the interview, provided one of them might remain present. This the lover found reasonable enough; and so Maria was called in to the sitting-room.</p>
+                <p><q>Do you know this young man?</q> asked the teacher.</p>
+                <p><q>No</q>, Maria replied, but her blush betrayed teh fact that she had perhaps seen him.</p>
+                <p><q>Well, my child, he is here to ask you to marry him. Have you any such desire in your heart?</q></p>
+                <p><q>No,</q> came the quick response, and at the same time maria shot an admiring glance toward her would-be lover's companion––a tall, unusuallly bright-looking young fellow, whom she knew to be batching on a farm several miles south of the mission. The lover now declared himself.</p>
+                <p><q>I think you mistake</q>, he said. <q>Me––I work on section––make much money––buy you pink blouse––maybe silk––and have a good bed, a mattress, and spring</q>.</p>
+                <p>This last, be it known, was introduced in all simplicity. When one has slept on the floor, and knows that the desire to ones' heart has also––most probably––slept on the floor the greater part of life, a bed represents considerable wealth and luxury.</p>
+                <p><q>I don't want to marry,</q> said Maria again, and smiled at the farmer.</p>
+                <p><q>But you mistake! Me, I'm grand man! Work all the time, never beat woman at all.</q></p>
+                <p>He gave her until Sunday night to consider his suit, but Maria would have none of him. And the young man admitted to his friend that he had wasted a perfectly good railraod pass on a foolish girl.</p>
+                <p>The following month, however, Maria married her farmer, who, in the meantime, had wisely presented his prospective father-in-law with a fat pig and a Holstein heifer––an incident which convinced <q>papa</q> that his investment in education had paid; and Old Saska that her <q>buttering</q> had worked a charm.</p></div>
+            <div>
+                <head>Browbeaten Women Rebel</head>
+                <!--Finish transcription-->
+            </div>
+        </body>
+    </text>
+</TEI>
+
+
+

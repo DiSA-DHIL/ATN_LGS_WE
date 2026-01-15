@@ -60,6 +60,13 @@
                   <surname>O'Leary</surname>
                </persName>
             </person>
+            <person xml:id="KY1">
+               <persName>
+                  <reg>Kyle</reg>
+                  <forename>(Unknown)</forename>
+                  <surname>Kyle</surname>
+               </persName>
+            </person>
          </listPerson>
          <listPerson type="contributor">
             <person xml:id="SL1">
@@ -70,6 +77,28 @@
                </persName>
                <note>
                   <p>Sydney Lines is a PhD Candidate in English Language and Literatures at the University of British Columbia.</p>
+               </note>
+            </person>
+         </listPerson>
+         <listPerson type="ethnicities">
+            <person xml:id="GH1">
+               <trait type="ethnicity"><label>Ethnicity</label><desc>German Hutterites</desc></trait>
+               <persName>
+                  <reg>German Hutterites</reg>
+               </persName>
+               <note>
+                  <p>The Hutterites were an anabaptist group known for their anti-war stance who settled primarily in Alberta from the U.S.</p>
+                  <!--Fill this out more. Talk to Joey to see how best to use <ethnicity> label if at all given the ethnis groups listPerson type.-->
+               </note>
+            </person>
+            <person xml:id="RUT1">
+               <trait type="ethnicity"><label>Ethnicity</label><desc>Ruthenians</desc></trait>
+               <persName>
+                  <reg>Ruthenians</reg>
+               </persName>
+               <note>
+                  <p>Rusyns, or ancestors of today's Ukrainian Canadians.</p>
+                  <!--Fill this out more. Talk to Joey to see how best to use <ethnicity> label if at all given the ethnis groups listPerson type.-->
                </note>
             </person>
          </listPerson>
