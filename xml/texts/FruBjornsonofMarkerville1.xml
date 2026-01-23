@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/DiSA-DHIL/ATN-Schema/refs/heads/main/dist/ATN.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/DiSA-DHIL/ATN-Schema/refs/heads/main/dist/ATN.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FruBjornsonofMarkerville1">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Fru Bjornson of Markerville</title>
+                <respStmt>
+                    <resp>Transcriber</resp>
+                    <name ref="pers:SL1">Sydney Lines</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoder</resp>
+                    <name ref="pers:SL1">Sydney Lines</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Digital Scholarship in the Arts</distributor>
+                <distributor>Digital Humanities Innovation Lab</distributor>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!--Information about the source file. If it's
+                  a primary source, use a <bibl> or <msDesc>;
+                  if born digital, use <p>Born Digital</p>-->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <schemaRef url="https://github.com/DiSA-DHIL/ATN-Schema/blob/main/sch/ATN.odd"/>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <catRef scheme="atn:DocType" target="atn:PrimarySource"/>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <pb n="45"/>
+        <body>
+            <div>
+                <head>Fru Bjornson of Markerville</head>
+                <opener>
+                    <byline>By <name ref="pers:LGS1">Laura Goodman Salverson</name></byline>
+                    <byline>Illustrated by <name ref="pers:RF1">Roy Fisher</name></byline>
+                </opener>
+                <p><trait type="ethnicity"><label>Ethnicity</label><desc>German</desc></trait>Herr Johann was ever a man with laughter close to his lips and an abundant imagination. Hence, it comes about that his sturdy old house, standing in the midst of thriving grainfields and fertile pastures that roll on jubilantly towards the Great Foot Hills is an eloquent memorial to deeds well done. For the old house hugs a story as most old houses do and, the story is the story of Canada in the making.</p>
+                <p>Life and death have hobnobbed beneath its grey gables; success and failure touched cold shoulders there; heartaches and hardships followed in succession, yet hope has never quitted that ancient rooftree.</p>
+                <p>Weatherbeaten and scarred, its timbers still sound at the core, the old house broods upon the golden grainfields, the emerald pastures dotted with fancy stock and pedigreed sheep, and the tender little maples copse, sprung from seedlings planted by Herr Johann when he, and his house, was young and the rich fields round them was unbroken virgin prairie.</p>
+                <p>Herr Johann is grey now and walks with a slight limp, (even the limp has a story), his years number seventy; yet to hear him laugh or to read his poetry, or to see him dash through the innumerable chores of a big farm is to realize that age is a bogey no longer to be feared.</p>
+                <p>Some say there is one prime reason for Herr Johann's sprightliness. His wife, a wee pocket-edition of wmoanhood is a veritable dynamo of activity. Even molasses hurries in her hands! So say the neighbors. Nothing daunts her. Neither Victorian pruderiers, nor flapper cruditites disturb her equilibrium. Of her effects upon the countryside the same cannot be said. Little she is but sometimes terrible in her littleness!</p>
+                <p>Little, yes, but very disturbing to medieval consciences! Old and workworn, she till manages her household, makes all her butter and cheese and <q>skyr</q> (the Icelander's equivalent for ice cream) drives and smokes her meat and in her spare time spins the finest of wool and runs a knitting machine for good profit. Then, too, madam turns a sonnet now and again or airs her views on the rural telephone.</p>
+                </div>
+            <div>
+                <head><q>Men Are All Alike</q></head>
+                <p>But <trait type="ethnicity"><label>Ethnicity</label><desc>Icelandic</desc></trait>Fru Bjornson is not without pity. When the <q>honorable member</q> for Saskatchewan was billeted at her house––just before the big national celebration it was, and the great man booked to address his compatriots––she came valiantly to his rescue. Over the breakfast table gloom has transcended the honorable brow. Madam was not slow to perceive it.</p>
+                <p><q>What now, Herr William?</q></p>
+                
+            </div>
+        </body>
+    </text>
+</TEI>
+
+

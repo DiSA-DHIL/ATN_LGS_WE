@@ -67,6 +67,13 @@
                   <surname>Kyle</surname>
                </persName>
             </person>
+            <person xml:id="RF1">
+               <persName>
+                  <reg>Roy Fisher</reg>
+                  <forename>Roy</forename>
+                  <surname>Fisher</surname>
+               </persName>
+            </person>
          </listPerson>
          <listPerson type="contributor">
             <person xml:id="SL1">
