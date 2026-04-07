@@ -20,11 +20,7 @@
                 <distributor>Digital Humanities Innovation Lab</distributor>
             </publicationStmt>
             <sourceDesc>
-                <p>
-                    <!--Information about the source file. If it's
-                  a primary source, use a <bibl> or <msDesc>;
-                  if born digital, use <p>Born Digital</p>-->
-                </p>
+                <bibl><author><name ref="https://winnifredeatonarchive.org/WE1.html">Reeve, Winnifred</name> (<name ref="https://winnifredeatonarchive.org/WE1.html">Onoto Watanna</name>)</author>. <title level="a">The Canadian Spirit in our Literature</title>. <publisher ref="https://winnifredeatonarchive.org/Calgary.html"><title level="j">Calgary Daily Herald</title></publisher>, <date when="1923-03-24">24 Mar. 1923</date>, p. <biblScope unit="page">11</biblScope>. <title level="m">The Winnifred Eaton Archive</title>, edited by <editor>Mary Chapman</editor> and <editor>Jean Lee Cole</editor>, <edition n="2.1a">v. 2.1a</edition>, <date when="2026-01-12">12 January 2026</date>, <ref target="https://winnifredeatonarchive.org/CanadianSpirit1.html">https://winnifredeatonarchive.org/CanadianSpirit1.html</ref>.</bibl>
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
